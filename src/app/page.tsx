@@ -9,7 +9,7 @@ import { Reviews } from "components/Home/Reviews";
 import { RoadMap } from "components/Home/RoadMap";
 import { Tapes } from "components/Home/Tapes";
 import { Tree } from "components/Home/Tree";
-import { Video } from "components/Home/Video";
+// import { Video } from "components/Home/Video";
 import { WhatDoesItMean } from "components/Home/WhatDoesItMean";
 
 export default async function Home() {
